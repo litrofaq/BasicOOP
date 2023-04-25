@@ -4,14 +4,7 @@
     <projectFile>BasicOOP.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fc1b445-1c57-4564-a9a3-92c535a05fe3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.BasicOOP/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicOOP.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicOOP.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Student.cs" afterDir="false" />
-    </list>
+    <list default="true" id="9fc1b445-1c57-4564-a9a3-92c535a05fe3" name="Changes" comment="Start base project" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,8 +57,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1682389273048</updated>
-      <workItem from="1682389299105" duration="528000" />
+      <workItem from="1682389299105" duration="1069000" />
     </task>
+    <task id="LOCAL-00001" summary="Start base project">
+      <created>1682389941398</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682389941398</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,5 +88,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Start base project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Start base project" />
   </component>
 </project>
